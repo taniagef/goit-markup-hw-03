@@ -44,6 +44,7 @@ color: #404bbf;
       color: #4d5ae5;
       letter-spacing: 0.03em;
       text-transform: uppercase;
+      margin-right: 76px;
       }
       .menu {
         font-size: 16px;
@@ -87,11 +88,19 @@ color: #404bbf;
 .header-cntnr
 {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
   padding-top: 20px;
   padding-bottom: 20px;
 }
+.container{
+  width: 1158px;
+  margin:0 auto;
+  padding:0 15px;
+}
+nav-list{
+  display: flex;
+  align-items: center;
+}
+
 
 
 /* main */

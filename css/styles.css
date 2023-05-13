@@ -80,7 +80,18 @@ color: #404bbf;
 .header-menu-item:focus {
   color: #404bbf;
 }
-
+.page-header
+{
+ border-bottom:1px solid #e7e9fc ;
+}
+.header-cntnr
+{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
 
 
 /* main */

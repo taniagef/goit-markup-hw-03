@@ -80,6 +80,10 @@ color: #404bbf;
     .second-upper-logo:focus {
       color: #404bbf;
     }
+    .header-menu-item {
+      display: flex;
+      gap: 40px;
+    }
 .header-menu-item:hover {
   color: #404bbf;
 }

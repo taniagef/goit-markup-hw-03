@@ -393,7 +393,7 @@ color: #F4F4FD;
       list-style: none;
       text-decoration: none;
       text-align: center;
-      width: 100%-72px/4;
+      width:calc((100%-72px)/4);
     }
 
     /* portfolio */

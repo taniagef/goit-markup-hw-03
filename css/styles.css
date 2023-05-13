@@ -46,6 +46,10 @@ color: #404bbf;
       text-transform: uppercase;
       margin-right: 76px;
       }
+      .header-menu-item {
+       display: flex;
+       gap: 40px;
+      }
       .menu {
         font-size: 16px;
        color: #2e2f42;

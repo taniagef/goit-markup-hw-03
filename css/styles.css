@@ -101,7 +101,7 @@ color: #404bbf;
   margin:0 auto;
   padding:0 15px;
 }
-.nav-list{
+.nav{
   display: flex;
   align-items: center;
 }

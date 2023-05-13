@@ -224,8 +224,8 @@ line-height: 1.5;
       letter-spacing: 0.02em;
       color: #FFFFFF;
       background-color: #2e2f42;
-     
-    }
+      max-width: 496px;
+  }
     .second-menu-title {
       font-size: 16px;
       font-weight: 500;
@@ -237,6 +237,7 @@ line-height: 1.5;
       text-align: left;
       background-color: #2e2f42;
       text-align: center;
+      padding: 188px 0 ;
     }
     
   /* main section */

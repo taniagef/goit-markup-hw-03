@@ -365,7 +365,23 @@ color: #F4F4FD;
       list-style: none;
       text-align: center;
       text-transform: capitalize;
+      margin-bottom: 72px;
     }
+    .offers-menu-section
+    {
+      padding-bottom: 120px;
+
+    }
+    .offers-menu
+    {
+    display: flex;
+    gap: 24px;
+    }
+    .offers-menu-item
+    {
+      width:calc((100%-48px)/3);
+    }
+
     .portfolio-address
     {
       font-style: normal;

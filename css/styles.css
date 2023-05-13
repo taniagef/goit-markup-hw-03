@@ -84,6 +84,11 @@ color: #404bbf;
       display: flex;
       gap: 40px;
     }
+    .contact-menu
+    {
+      display: flex;
+      gap: 40px;
+     }
 .header-menu-item:hover {
   color: #404bbf;
 }

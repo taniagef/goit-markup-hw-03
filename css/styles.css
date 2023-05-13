@@ -391,6 +391,7 @@ color: #F4F4FD;
 }
 /* HW-3 */
 /* first section */
-.photo {
+.photo
+ {
   display: block;
 }

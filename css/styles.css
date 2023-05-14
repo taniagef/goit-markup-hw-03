@@ -423,6 +423,14 @@ color: #F4F4FD;
           text-transform: uppercase;
           margin-right: 76px;
         }
+        .logo-p:hover
+        {
+          color: #404BBF;
+        }
+        .logo-p:focus
+        {
+          color: #404BBF;
+        }
       .portfolio-header-cntnr
     {
       width: 1158;

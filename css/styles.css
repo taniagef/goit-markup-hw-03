@@ -528,6 +528,14 @@ color: #F4F4FD;
   text-transform: uppercase;
   margin-right: 76px;
 }
+.second-bottom-logo:hover
+{
+  color: #404BBF;
+}
+.second-bottom-logo:focus
+{
+  color: #404BBF;
+}
 /* HW-3 */
 /* first section */
 .photo

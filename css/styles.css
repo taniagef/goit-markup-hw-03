@@ -35,7 +35,10 @@ color: #404bbf;
      /* logo */
      
      /* nav-menu */
-
+.portfolio-header-cntnr
+{
+  display: flex;
+}
     .logo {
       font-family: Raleway, sans-serif;
       font-size: 18px;
@@ -461,7 +464,7 @@ color: #F4F4FD;
            line-height: 1.5;
            letter-spacing: 0.02em;
            padding: 24px 0;
-           
+
          }
 
 .offers-samples

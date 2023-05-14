@@ -326,6 +326,11 @@ color: #F4F4FD;
   
 
      /* team photos */
+     .team-list {
+     display: flex;
+      gap : 24px;
+      }
+
      .team-menu-section
       {
         font-size: 36px;
@@ -348,6 +353,8 @@ color: #F4F4FD;
       text-decoration: none;
       text-transform: capitalize;
       text-align: center;
+      margin-bottom: 72px;
+
 
     }
     .team-menu-item {
@@ -535,4 +542,8 @@ color: #F4F4FD;
 .promotion-slogan
 {
   max-width: 264px;
+}
+.team-menu-section
+{
+  padding: 120px 0;
 }

@@ -410,6 +410,12 @@ color: #F4F4FD;
        width:calc((100%-72px)/4);
     }
     /* portfolio */
+      .portfolio-header-cntnr
+    {
+      width: 1158;
+      margin:0 auto;
+      padding: 15px 0;
+  }
     .portfolio-address
     {
       font-style: normal;
@@ -438,6 +444,26 @@ color: #F4F4FD;
            color: #FFFFFF;
          }
          /* portfolio offers menu */
+         .nav-p
+          {
+            display: flex;
+            align-items: center;
+            }
+    .header-menu-item
+    {
+     display: flex;
+     gap: 40px;
+    }
+         .menu-p {
+           font-size: 16px;
+           color: #2e2f42;
+           font-weight: 500;
+           line-height: 1.5;
+           letter-spacing: 0.02em;
+           padding: 24px 0;
+           
+         }
+
 .offers-samples
 {
   font-weight: 500;

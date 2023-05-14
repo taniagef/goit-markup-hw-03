@@ -358,7 +358,12 @@ color: #F4F4FD;
 
     }
     .team-menu-item {
+      width:calc((100%-72px)/4);
       background-color: #FFFFFF;
+      border-radius:0px 0px 4px 4px;
+      }
+      .employee {
+       padding: 32px 16px;
       }
     .offer-samples {
       list-style: none;

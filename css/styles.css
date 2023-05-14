@@ -504,9 +504,32 @@ color: #F4F4FD;
   color: #434455;
   text-align: center;
 }
+/* footer */
+.bottom-logo
+{
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 1.17;
+  color: #4d5ae5;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  margin-right: 76px;
+}
+.footer
 /* HW-3 */
 /* first section */
 .photo
  {
   display: block;
+}
+.bottom-logo-s
+{
+  background-color: #2e2f42;
+    padding: 100px 0;
+  }
+.bottom-logo
+{
+ display: inline-block;
+ margin-bottom: 16px;
 }

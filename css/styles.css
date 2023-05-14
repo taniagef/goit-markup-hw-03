@@ -413,11 +413,21 @@ color: #F4F4FD;
        width:calc((100%-72px)/4);
     }
     /* portfolio */
+        .logo-p{
+          font-family: Raleway, sans-serif;
+          font-size: 18px;
+          font-weight: 800;
+          line-height: 1.17;
+          color: #4d5ae5;
+          letter-spacing: 0.03em;
+          text-transform: uppercase;
+          margin-right: 76px;
+        }
       .portfolio-header-cntnr
     {
       width: 1158;
       margin:0 auto;
-      padding: 15px 0;
+      padding: 0 15px ;
   }
     .portfolio-address
     {

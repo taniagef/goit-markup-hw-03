@@ -487,7 +487,14 @@ color: #F4F4FD;
            background-color:#404BBF;
            color: #FFFFFF;
          }
-         /* portfolio offers menu */
+/*  portfolio offers menu */ */
+         .prtflio-btns
+          {
+            display: flex;
+            gap: 24px;
+            justify-content:center;
+            margin-bottom: 72px;
+          }
          .nav-p
           {
             display: flex;

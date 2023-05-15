@@ -423,7 +423,12 @@ color: #F4F4FD;
       list-style: none;
       text-decoration: none;
       text-align: center;
-      width:  calc((100%-72px)/4);
+     
+    }
+
+    .excellence-menu-item
+    {
+      width: calc((100%-72px)/4);
     }
     /* portfolio */
         .logo-p{

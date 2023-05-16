@@ -497,13 +497,12 @@ color: #F4F4FD;
           }
 
 /*  portfolio offers menu */ */
-         .prtflio-btns
-          {
-            display: flex;
-            gap: 24px;
-            justify-content:center;
-            margin-bottom: 72px;
-          }
+             .prtflio-btns
+              {
+                display: flex;
+                gap: 24px;
+                margin-bottom: 72px;
+              }
          .nav-p
           {
             display: flex;

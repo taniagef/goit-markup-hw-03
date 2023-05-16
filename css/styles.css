@@ -429,7 +429,7 @@ color: #F4F4FD;
 
     .excellence-menu-item
     {
-      width: calc((100%-72px)/4);
+      width: calc((100% - 72px) / 4);
     }
     /* portfolio */
         .logo-p{

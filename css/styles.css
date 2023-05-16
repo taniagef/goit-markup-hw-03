@@ -424,11 +424,6 @@ color: #F4F4FD;
       list-style: none;
       text-decoration: none;
       text-align: center;
-     
-    }
-
-    .excellence-menu-item
-    {
       width: calc((100% - 72px) / 4);
     }
     /* portfolio */

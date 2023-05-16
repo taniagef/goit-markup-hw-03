@@ -534,7 +534,10 @@ color: #F4F4FD;
  column-gap: 24px;
  row-gap: 48px;
 }
-
+.sample
+{
+  width: calc((100%-48px)/3);
+}
 .offers-samples
 {
   font-weight: 500;

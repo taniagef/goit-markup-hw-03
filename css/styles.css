@@ -13,15 +13,15 @@
       text-decoration: none;
     }
   /* header */
-     .address 
+     .contact 
      {
        color: #434455;
        font-style: normal;
      }
-.address:hover {
+.contact:hover {
 color: #404bbf;
 }
-.address:focus {
+.contact:focus {
   color: #404bbf;
 }
 

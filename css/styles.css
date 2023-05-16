@@ -473,7 +473,7 @@ color: #F4F4FD;
       text-align: center;
       cursor: pointer;
       padding: 12px 24px;
-      border: 1px solid #e7e9fc
+      border: 1px solid #e7e9fc;
       border-radius: 4px;
     }
     .section-portofolio
@@ -493,7 +493,7 @@ color: #F4F4FD;
            color: #FFFFFF;
           }
          /*prtflio-sction  */
-          .prtflio-sction
+          .section-portfolio
           {
             padding: 96px 0 120px 0;
           }

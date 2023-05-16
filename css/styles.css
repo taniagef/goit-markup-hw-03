@@ -499,7 +499,10 @@ color: #F4F4FD;
 /*  portfolio offers menu */ */
              .prtflio-btns
               { 
-             
+              justify-content: center;
+                display: flex;
+                gap: 24px;
+                margin-bottom: 72px;
               }
 
               .btn

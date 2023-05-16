@@ -3,6 +3,7 @@
   --accent-color: fff6c00;
   --color: #2e2f42;
   --color: #434455;
+  --color:#e7e9fc
    } 
   .list {
     list-style: none;
@@ -525,6 +526,14 @@ color: #F4F4FD;
            padding: 24px 0;
 
          }
+/* second list prtfolio */
+.frs-smpls
+{
+ display: flex;
+ flex-wrap: wrap;
+ column-gap: 24px;
+ row-gap: 48px;
+}
 
 .offers-samples
 {

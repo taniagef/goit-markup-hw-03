@@ -491,7 +491,13 @@ color: #F4F4FD;
           border: 1px solid transparent;
            background-color:#404BBF;
            color: #FFFFFF;
-         }
+          }
+         /*prtflio-sction  */
+          .prtflio-sction
+          {
+            padding: 96px 0 120px 0;
+          }
+
 /*  portfolio offers menu */ */
          .prtflio-btns
           {

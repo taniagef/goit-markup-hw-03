@@ -504,6 +504,12 @@ color: #F4F4FD;
                 gap: 24px;
                 margin-bottom: 72px;
               }
+
+              .btn
+              {
+                width: calc((100% - 48px) / 3);
+              }
+           
          .nav-p
           {
             display: flex;

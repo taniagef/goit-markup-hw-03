@@ -560,6 +560,7 @@ width: calc((100% - 72px) / 4);
   list-style: none;
   text-decoration: none;
   text-align: center;
+  margin-bottom: 8px;
 }
 .offers-samples-p
 {

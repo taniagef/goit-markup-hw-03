@@ -531,6 +531,7 @@ color: #F4F4FD;
  column-gap: 24px;
  row-gap: 48px;
 }
+/* 2section */
 .sample
 {
 width: calc((100% - 72px) / 4);

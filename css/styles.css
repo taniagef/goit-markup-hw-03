@@ -455,9 +455,9 @@ color: #F4F4FD;
       margin:0 auto;
       padding: 0 15px ;
   }
-    .portfolio-address
+    .address
     {
-      font-style: normal;
+      font-style:none;
     }
     .button-portfolio
     {

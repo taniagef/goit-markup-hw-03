@@ -419,14 +419,7 @@ color: #F4F4FD;
     /* exsellence ;enu ite; */
    .excellence-menu-item
     {
-      font-size: 20px;
-      font-weight: 500;
-      line-height: 1.2;
-      letter-spacing: 0.02em;
-      color:#2e2f42;
-      list-style: none;
-      text-decoration: none;
-      text-align: center;
+     
     width:calc((100%-72px)/4);
     }  
 

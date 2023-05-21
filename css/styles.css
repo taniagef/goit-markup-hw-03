@@ -143,7 +143,10 @@ color: #404bbf;
   align-items: center;
 }
 
-
+address
+{
+  margin-left: auto;
+}
 
 /* main */
   .order-button{
@@ -543,6 +546,7 @@ color: #F4F4FD;
      gap: 40px;
     }
          .menu-p {
+          display: block;
            font-size: 16px;
            color: #2e2f42;
            font-weight: 500;

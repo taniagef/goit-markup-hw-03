@@ -11,7 +11,7 @@
  .h1,h2,h3,h4,h5,h6,p
   {
 
-   margin-top: 0;
+   margin: 0;
     padding-bottom: 0;
   }
 
@@ -524,9 +524,7 @@ color: #F4F4FD;
                 margin-bottom: 72px;
               }
 
-             .btn {
-      width: calc((100% - 48px) / 3);
-    }
+            
 
           .div-itm {
             border-top: none;

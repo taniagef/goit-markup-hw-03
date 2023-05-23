@@ -204,9 +204,9 @@ cursor: pointer;
  }
 
  .contact-menu {
-   text-decoration: none;
-   list-style: none;
- }
+      text-align: left;
+    }
+ 
 
   /* our team */
   .team-list {
@@ -234,12 +234,7 @@ cursor: pointer;
        text-align: center;
        margin-bottom: 8px;
      }
- .contact-menu
-  {
-    text-decoration: none;
-    list-style: none;
-    text-align: left;
-   }
+
 /*  */
 
 .body{

@@ -325,15 +325,21 @@ margin-right: auto;
       font-weight: 800;
       line-height: 1.17;
       font-family: "Raleway", sans-serif;
-      color:#F4F4FD;
-      background-color: #2e2f42;
+    color: #4d5ae5;
       text-align:left;
       letter-spacing: 0.03em;
       text-transform:uppercase ;
 display: inline-block;
   margin-bottom: 16px;
-
-    }
+}
+.logo-b:hover
+{
+  color: #404bbf;
+}
+.logo-b:focus
+{
+  color: #404bbf;
+}
 
     /*STUDIO */
     .second-logo-b

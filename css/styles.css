@@ -273,6 +273,9 @@ margin-right: auto;
       color: #FFFFFF;
       background-color: #2e2f42;
       max-width: 496px;
+      margin : 0 auto;
+     
+
   }
     .second-menu-title {
       font-size: 16px;

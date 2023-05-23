@@ -6,7 +6,14 @@
   --color:#e7e9fc
 
 }
-
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+}
 
  .h1,h2,h3,h4,h5,h6,p
   {
@@ -149,6 +156,11 @@ address
 }
 
 /* main */
+.is-hidden {
+  visibility: hidden;
+  pointer-events: none;
+  position: absolute;
+}
   .order-button{
     font-family:"Roboto",
       sans-serif ;

@@ -533,16 +533,7 @@ color: #F4F4FD;
      display: flex;
      gap: 40px;
     }
-         .menu-p {
-          display: block;
-           font-size: 16px;
-           color: #2e2f42;
-           font-weight: 500;
-           line-height: 1.5;
-           letter-spacing: 0.02em;
-           padding: 24px 0;
-
-         }
+        
 /* second list prtfolio */
 .frs-smpls
 {

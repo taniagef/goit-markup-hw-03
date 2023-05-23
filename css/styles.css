@@ -192,7 +192,8 @@ cursor: pointer;
    letter-spacing: 0.02em;
  }
 
- .menu-portfolio {
+ .menu-p {
+  display: block;
    text-decoration: none;
    list-style: none;
  }

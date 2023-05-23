@@ -192,11 +192,7 @@ cursor: pointer;
    letter-spacing: 0.02em;
  }
 
- .menu-p {
-  display: block;
-   text-decoration: none;
-   list-style: none;
- }
+ 
 
  .offers-menu-section {
    font-size: 20px;

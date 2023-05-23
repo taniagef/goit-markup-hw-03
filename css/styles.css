@@ -454,16 +454,7 @@ color: #F4F4FD;
     }  
 
     /* portfolio */
-        .logo-p{
-          font-family: Raleway, sans-serif;
-          font-size: 18px;
-          font-weight: 800;
-          line-height: 1.17;
-          color: #4d5ae5;
-          letter-spacing: 0.03em;
-          text-transform: uppercase;
-          margin-right: 76px;
-        }
+      
         .logo-p:hover
         {
           color: #404BBF;

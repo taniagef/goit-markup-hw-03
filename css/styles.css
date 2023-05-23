@@ -315,13 +315,26 @@ margin-right: auto;
       text-align: left;
       letter-spacing: 0.03em;
       text-transform:uppercase ;
-      display: inline-block;
-      margin-bottom: 16px;
+      
 
 
     }
+    .logo-b
+    {
+      font-size: 18px;
+      font-weight: 800;
+      line-height: 1.17;
+      font-family: "Raleway", sans-serif;
+      color:#F4F4FD;
+      background-color: #2e2f42;
+      text-align:left;
+      letter-spacing: 0.03em;
+      text-transform:uppercase ;
+display: inline-block;
+  margin-bottom: 16px;
 
-    
+    }
+
     /*STUDIO */
     .second-logo-b
     {

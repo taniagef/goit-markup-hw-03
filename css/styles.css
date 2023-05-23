@@ -360,7 +360,6 @@ display: inline-block;
 font-size: 16px;
 line-height: 1.5;
 color: #F4F4FD;
-
 }
     .button:hover
     {
@@ -395,10 +394,7 @@ color: #F4F4FD;
       color:#2e2f42;
       text-transform: capitalize;
       margin-bottom: 72px;
-      
-
-
-    }
+       }
 
     .team-menu-item {
     background-color: #F4F4FD;

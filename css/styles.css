@@ -235,7 +235,6 @@ margin-right: auto;
        line-height: 1.5;
        letter-spacing: 0.02em;
        color: #434455;
-       background-color: #FFFFFF;
      }
   
      .name {
@@ -244,7 +243,6 @@ margin-right: auto;
        letter-spacing: 0.02em;
        font-weight: 500;
        color: #2e2f42;
-       background-color: #FFFFFF;
        list-style: none;
        text-decoration: none;
        text-transform: capitalize;
@@ -400,7 +398,7 @@ color: #F4F4FD;
        }
 
     .team-menu-item {
-    background-color: #F4F4FD;
+    background-color:#FFFFFF;
       width:calc((100%-72px)/4);
       border-radius: 0px 0px 4px 4px;
     }
@@ -541,6 +539,7 @@ color: #F4F4FD;
 .sample
 {
 width:calc((100% - 48px) / 3);
+background-color:#F4F4FD ;
 }
 .offers-samples
 {

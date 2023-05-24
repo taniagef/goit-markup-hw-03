@@ -538,7 +538,6 @@ color: #F4F4FD;
 /* 2section */
 .sample
 {
-width:calc((100% - 48px) / 3);
 background-color:#F4F4FD ;
 }
 .offers-samples

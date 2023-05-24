@@ -606,3 +606,7 @@ width:calc((100% - 48px) / 3);
 {
   border-top: none;
 }
+.visually-hidden-p
+{
+  display: none;
+}

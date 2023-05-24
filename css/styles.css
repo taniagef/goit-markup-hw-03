@@ -168,7 +168,14 @@ address
 {
   margin-left: auto;
 }
-
+/* first section */
+second-menu-title
+{
+ background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7));
+ max-width: 1440px;
+ background-repeat: no-repeat;
+ background-position: center;
+}
 /* main */
   .order-button{
     font-family:"Roboto",

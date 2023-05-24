@@ -175,6 +175,7 @@ second-menu-title
  max-width: 1440px;
  background-repeat: no-repeat;
  background-position: center;
+ background-size: cover;
 }
 /* main */
   .order-button{
